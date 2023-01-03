@@ -1,0 +1,22 @@
+body{
+    background-color:#EAF6F6;
+}
+
+.hori{
+    
+   height: 1px;
+   border-style: dotted none none;
+   width: 7%;
+   height: 0px;
+   border-color: gray;
+   border-width: 4px;
+}
+h1{
+    color:rgb(80, 199, 199);
+    font-family:cursive;
+}
+h3{
+    color:rgb(69, 188, 188);
+    font-family:cursive;
+}
+
